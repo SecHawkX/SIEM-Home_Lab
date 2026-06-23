@@ -6,7 +6,7 @@ A complete Mini SIEM Home Lab built with Splunk Enterprise, pfSense, Windows, an
 This project demonstrates the design and implementation of a Security Information and Event Management (SIEM) home lab that simulates a real-world Security Operations Center (SOC). The environment centralizes logs from Windows, Kali Linux, and pfSense into Splunk Enterprise for security monitoring, log analysis, and threat detection.
 
 🎥 **Project Demo Video:**  
-https://drive.google.com/file/d/18V_YDSOoEOUZYVXcQgKdOl0VC5iucbvI/view
+[▶ Watch Demo Video](https://drive.google.com/file/d/18V_YDSOoEOUZYVXcQgKdOl0VC5iucbvI/preview)
 ---
 
 ## Objectives
